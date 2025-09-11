@@ -10,4 +10,5 @@
 
 | Date | Topic | Issue | Etc |
 |------|-------|-------|-----|
-| 2025.09.10 | Segmentation |  |  |
+| 2025.09.10 | Segmentation | [25.09.10](https://github.com/seunghyeokleeme/Papers-I-Read/issues/1)  |  |
+| 2025.09.11 | Continual learning, Image Reply | [25.09.11](https://github.com/seunghyeokleeme/Papers-I-Read/issues/4)  |  |
