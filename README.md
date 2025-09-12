@@ -12,4 +12,4 @@
 |------|-------|-------|-----|
 | 2025.09.10 | Segmentation | [25.09.10](https://github.com/seunghyeokleeme/Papers-I-Read/issues/1)  |  |
 | 2025.09.11 | CSS | [25.09.11](https://github.com/seunghyeokleeme/Papers-I-Read/issues/4)  |  |
-| 2025.09.12 | Object Detection | [25.09.11](https://github.com/seunghyeokleeme/Papers-I-Read/issues/5)  |  |
+| 2025.09.12 | Object Detection | [25.09.12](https://github.com/seunghyeokleeme/Papers-I-Read/issues/5)  |  |
