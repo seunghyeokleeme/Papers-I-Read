@@ -7,9 +7,3 @@
 다만, 모든 것을 동일한 가중치로 설정할 수 없습니다. 
 
 그러므로 하나의 paper마다 최대 3장의 슬라이드로 요약 되도록 만들고 해당 슬라이드 기반으로 자유롭게 생각하는 형식으로 만들었습니다.
-
-| Date | Topic | Issue | Etc |
-|------|-------|-------|-----|
-| 2025.09.10 | Segmentation | [25.09.10](https://github.com/seunghyeokleeme/Papers-I-Read/issues/1)  |  |
-| 2025.09.11 | CSS | [25.09.11](https://github.com/seunghyeokleeme/Papers-I-Read/issues/4)  |  |
-| 2025.09.12 | Object Detection | [25.09.12](https://github.com/seunghyeokleeme/Papers-I-Read/issues/5)  |  |
